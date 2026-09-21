@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Derbi_logo.jpg" group-title="Zhbsbzvv",Canlı Derbi
-https://vaypng.vercel.app/a.m3u
 #EXTINF:-1 tvg-logo="https://vaypng.vercel.app/bein-sport-1.png" group-title="beIN CONNECT",BEİN SPORTS 1
 https://ladyboy.yedektv.cfd//hls/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://vaypng.vercel.app/bein-sport-2.png" group-title="beIN CONNECT",BEİN SPORTS 2
@@ -19,3 +17,5 @@ https://ladyboy.yedektv.cfd//beinmax2/tracks-v1a1/mono.m3u8
 https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://vaypng.vercel.app/s-sport-2.png" group-title="S Sport Plus",S SPORT 2
 https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Derbi_logo.jpg" group-title="Canlı Derbi",CANLI DERBİ
+https://vaypng.vercel.app/a.m3u
